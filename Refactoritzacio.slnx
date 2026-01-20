@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ContaParells/ContaParells.csproj" />
+  <Project Path="MenuXungo/MenuXungo.csproj" />
+</Solution>

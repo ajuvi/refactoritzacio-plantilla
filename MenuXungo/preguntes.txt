@@ -1,0 +1,10 @@
+﻿De quin color és el cavall blanc de santiago?
+Quants bits té un byte?
+Convertir 11111111 binari a decimal.
+Quant és 2 + 2?
+Quant és 5 - 3?
+Quants bits té un bit?
+Quant és 10 / 2?
+Quant és 3 * 3000?
+Quin número representa 1010 binari en decimal?
+Quin és el resultat de 7 + 8?
